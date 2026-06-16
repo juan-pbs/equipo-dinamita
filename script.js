@@ -1,14 +1,14 @@
 const integrantes = [
   {
-    nombre: "Nombre:",
-    rol: "Rol: Líder / Integrador"
+    nombre: "Nombre:Juan Pablo",
+    rol: "Rol: Líder"
   },
   {
-    nombre: "Nombre:",
+    nombre: "Nombre:Carlos Jacobo",
     rol: "Rol: Diseñador CSS"
   },
   {
-    nombre: "Nombre:",
+    nombre: "Nombre:Nayeli",
     rol: "Rol: Redactor HTML"
   }
 ];
